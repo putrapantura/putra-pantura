@@ -2,8 +2,9 @@ Rancana Konten Putra Pantura
 - javaScript 
   *ES6
   * Framework JavaScript
+  * Angular
+  * Reack
 - Php Framework
+ * Laravel
 - PHP 7
 - CSS
-
-- Fundamental Data Dasar
