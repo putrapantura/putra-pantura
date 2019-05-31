@@ -1,5 +1,7 @@
 Rancana Konten Putra Pantura
-- javaScript
+- javaScript 
+  *ES6
+  * Framework JavaScript
 - Php Framework
 - PHP 7
 - CSS
