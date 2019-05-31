@@ -4,4 +4,5 @@ Putra Pantura
 - Membagikan Informasi Lowongan kerja
 - Tes aplikasi
 - bla bla bla
+- Membuat tutorial pemrograman website
 
