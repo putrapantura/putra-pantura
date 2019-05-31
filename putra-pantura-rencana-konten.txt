@@ -5,3 +5,5 @@ Rancana Konten Putra Pantura
 - Php Framework
 - PHP 7
 - CSS
+
+- Fundamental Data Dasar
